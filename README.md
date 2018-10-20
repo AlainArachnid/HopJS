@@ -1,0 +1,2 @@
+# HopJS
+Simple puzzle
